@@ -11,6 +11,14 @@ Có một hải tặc tên là Monkey D.Luffy đến một hòn đảo để cư
 ### Input:
 - Dòng đầu tiên là 2 số nguyên dương n($1 \le n \le 1000$) và W($1 \le W \le 10^5$) biểu thị số lượng kho báu và tải trọng tối đa của vali.
 - Dòng thứ 2 là một dãy n số nguyên dương biểu thị trọng lượng của các kho báu (1 $\le$ w<sub>i</sub> $\le$ W)
-- Dòng thứ 3 là một dãy n số nguyên dương biểu thị giá trị của từng kho báu (1 $\le$ v<sub>i</sub> $\le 10^5$)
+- Dòng thứ 3 là một dãy n số nguyên dương biểu thị giá trị của từng kho báu (1 $\le$ w<sub>i</sub> $\le 10^5$)
 ### Output:
-Một dòng duy nhất là số nguyên thể hiện tổng giá trị kho báu lớn nhất mà Monkey D. Luffy lấy dược.
+Một dòng duy nhất là số nguyên thể hiện tổng giá trị kho báu lớn nhất mà Monkey D. Luffy lấy được.
+# Bài 3:
+Vẫn là câu chuyện về hải tặc Luffy. Đề bài tương tự như câu trên. Tuy nhiên mỗi loại kho báu có số lượng là không giới hạn, nghĩa là với một món kho báu có trọng lượng w<sub>i</sub> và giá trị w<sub>i</sub> thì Luffy có thể chọn bao nhiêu cũng được. Bạn hãy giúp Luffy tìm được tổng giá trị kho báu lớn nhất mà cậu ta lấy được sao cho tổng trọng lượng không vượt quá W.
+### Input:
+- Dòng đầu tiên là 2 số nguyên dương n($1 \le n \le 1000$) và W($1 \le W \le 10^5$) biểu thị số lượng kho báu và tải trọng tối đa của vali.
+- Dòng thứ 2 là một dãy n số nguyên dương biểu thị trọng lượng của các kho báu (1 $\le$ w<sub>i</sub> $\le$ W)
+- Dòng thứ 3 là một dãy n số nguyên dương biểu thị giá trị của từng kho báu (1 $\le$ w<sub>i</sub> $\le 10^5$)
+### Output:
+Một dòng duy nhất là số nguyên thể hiện tổng giá trị kho báu lớn nhất mà Monkey D. Luffy lấy được.
