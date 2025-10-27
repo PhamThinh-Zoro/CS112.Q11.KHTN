@@ -1,3 +1,4 @@
+# Cái này nháp thôi ae đừng làm=)), làm bài trong btvn.md ấy
 # Bài 1
 Cho một hàng n đồng tiền với giá trị là các số nguyên dương c<sub>1</sub>, c<sub>2</sub>,..., c<sub>n</sub>, không nhất thiết phải khác nhau. Mục tiêu là lấy được
 số tiền lớn nhất với điều kiện không thể lấy được hai đồng tiền liền kề trong hàng ban đầu.
